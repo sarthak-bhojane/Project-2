@@ -1,0 +1,32 @@
+body{
+    background-color: rgba(128, 128, 128, 0.5);
+    width: 100%;
+    
+}
+nav{
+    display: inline;
+    text-decoration: none;
+    font-size: 13px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.nav1{
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin: 2rem;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#headbar{
+    display: inline;
+    margin-right: 10px;
+}
+h1{
+    display: inline;
+    margin-right: 1000px;
+}
+#headbar1{
+    display: inline;
+    margin-left: 900px;
+}
